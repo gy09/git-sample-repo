@@ -10,3 +10,5 @@ class Test_sample(unittest.Testcase):
 
 obj = Test_sample()
 obj.sample
+
+BUUUYAAAAAAAAAA
