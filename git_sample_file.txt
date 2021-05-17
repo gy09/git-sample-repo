@@ -1,0 +1,3 @@
+def sample(self):
+    print("This is a sample file")
+    print(" just chilling on git")
