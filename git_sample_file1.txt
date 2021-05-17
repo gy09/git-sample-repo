@@ -1,0 +1,16 @@
+import pytest
+import unittest
+
+class Test_sample(unittest.Testcase):
+
+
+   def sample(self):
+        print("This is a sample file")
+        print(" just chilling on git")
+   def demo(self)
+        print("practicing the cloning fuctionality of git")
+
+obj = Test_sample()
+obj.sample()
+obj.demo()
+
